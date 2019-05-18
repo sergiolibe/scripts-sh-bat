@@ -1,0 +1,14 @@
+Se ha borrado el directorio "C:\Users\Sergio\Desktop\universidad\scriptsBAT\sh\apk" el 19-03-2018 a las  0:57:22,90
+Se ha borrado el directorio "C:\Users\Sergio\Desktop\universidad\scriptsBAT\sh\comprimidos" el 19-03-2018 a las  0:57:22,91
+Se ha borrado el directorio "C:\Users\Sergio\Desktop\universidad\scriptsBAT\sh\dwgAutocad" el 19-03-2018 a las  0:57:22,91
+Se ha borrado el directorio "C:\Users\Sergio\Desktop\universidad\scriptsBAT\sh\epsYpng" el 19-03-2018 a las  0:57:22,91
+Se ha borrado el directorio "C:\Users\Sergio\Desktop\universidad\scriptsBAT\sh\exe" el 19-03-2018 a las  0:57:22,92
+Se ha borrado el directorio "C:\Users\Sergio\Desktop\universidad\scriptsBAT\sh\gif" el 19-03-2018 a las  0:57:22,92
+Se ha borrado el directorio "C:\Users\Sergio\Desktop\universidad\scriptsBAT\sh\Imagenes" el 19-03-2018 a las  0:57:22,92
+Se ha borrado el directorio "C:\Users\Sergio\Desktop\universidad\scriptsBAT\sh\MatlabScriptFunction" el 19-03-2018 a las  0:57:22,93
+Se ha borrado el directorio "C:\Users\Sergio\Desktop\universidad\scriptsBAT\sh\mp3" el 19-03-2018 a las  0:57:22,93
+Se ha borrado el directorio "C:\Users\Sergio\Desktop\universidad\scriptsBAT\sh\office" el 19-03-2018 a las  0:57:22,93
+Se ha borrado el directorio "C:\Users\Sergio\Desktop\universidad\scriptsBAT\sh\pdf" el 19-03-2018 a las  0:57:22,94
+Se ha borrado el directorio "C:\Users\Sergio\Desktop\universidad\scriptsBAT\sh\solidosFormatosVarios" el 19-03-2018 a las  0:57:22,94
+Se ha borrado el directorio "C:\Users\Sergio\Desktop\universidad\scriptsBAT\sh\SolidWorksParts" el 19-03-2018 a las  0:57:22,95
+Se ha borrado el directorio "C:\Users\Sergio\Desktop\universidad\scriptsBAT\sh\txtYcsv" el 19-03-2018 a las  0:57:22,95
